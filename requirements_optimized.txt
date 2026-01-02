@@ -1,0 +1,10 @@
+pywebview
+markdown
+pygments
+# For GTK backend (much faster than Qt on Linux)
+# GTK is usually pre-installed on Linux systems
+# If GTK not available, will fall back to Qt
+PyGObject; sys_platform == 'linux'
+# Qt backend as fallback (slower but more portable)
+PyQt5; sys_platform != 'linux'
+PyQtWebEngine; sys_platform != 'linux'

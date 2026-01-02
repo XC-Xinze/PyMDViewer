@@ -1,0 +1,5 @@
+pywebview
+markdown
+pygments
+# GTK backend dependencies (PyGObject) are installed system-wide on Fedora
+# Qt dependencies removed for faster startup - GTK is 10x faster
