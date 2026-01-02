@@ -55,7 +55,8 @@ pymdviewer README.md
 - **Python 3.8+**
 - **PyGObject** (python3-gobject) - Usually pre-installed on Linux
 - **GTK3** - Standard on most Linux desktops
-
+- **Qt** - Standard on most Linux desktops
+  
 On Fedora (usually already installed):
 
 ```bash
@@ -177,7 +178,6 @@ cat ~/.local/share/applications/pymdviewer.desktop | grep Icon
 
 ### Slow startup
 
-- Make sure you're using the GTK backend (not Qt)
 - Reinstall with `./install.sh` to apply optimizations
 - Run `./benchmark.sh` to test performance
 
