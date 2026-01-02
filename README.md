@@ -12,7 +12,7 @@ THIS IS A PRACTICE PROJECT TO TEST THE ABILITY OF AGENTS!
 
 ## ✨ Features
 
-- 🚀 **Ultra-fast startup** (~0.2s with GTK backend)
+- 🚀 **Ultra-fast startup** 
 - 🎨 **Syntax highlighting** for code blocks (Pygments)
 - 🌓 **Dark mode** support (auto-detects system preference)
 - 📊 **Tables, TOC, and extended Markdown** support
