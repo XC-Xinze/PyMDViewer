@@ -179,7 +179,6 @@ cat ~/.local/share/applications/pymdviewer.desktop | grep Icon
 ### Slow startup
 
 - Reinstall with `./install.sh` to apply optimizations
-- Run `./benchmark.sh` to test performance
 
 
 ## ⭐ Acknowledgments
