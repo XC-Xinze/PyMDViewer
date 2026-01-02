@@ -1,8 +1,12 @@
 # PyMDViewer
 
-A lightweight, fast Markdown viewer for Linux with syntax highlighting and dark mode support.
+A lightweight, fast Markdown viewer for Linux with syntax highlighting and dark mode support. 
+### Acknowledge:
+This application is **Totally** established by Claude and Gemini agents. 
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+THIS IS A PRACTICE PROJECT TO TEST THE ABILITY OF AGENTS!
+
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
