@@ -2,7 +2,7 @@
 
 A lightweight, fast Markdown viewer for Linux with syntax highlighting and dark mode support. 
 ### Acknowledge:
-This application is **Totally** established by Claude and Gemini agents. 
+This application is **Totally** established by Claude and Gemini agents(even the LOGO). 
 
 THIS IS A PRACTICE PROJECT TO TEST THE ABILITY OF AGENTS!
 
@@ -181,11 +181,6 @@ cat ~/.local/share/applications/pymdviewer.desktop | grep Icon
 - Reinstall with `./install.sh` to apply optimizations
 - Run `./benchmark.sh` to test performance
 
-## 📚 Documentation
-
-- [ICON_SETUP.md](ICON_SETUP.md) - How to customize the application icon
-- [PERFORMANCE_IMPROVEMENTS.md](PERFORMANCE_IMPROVEMENTS.md) - Performance optimization details
-- [README_OPTIMIZATION.md](README_OPTIMIZATION.md) - Quick optimization summary
 
 ## ⭐ Acknowledgments
 
