@@ -26,7 +26,7 @@ THIS IS A PRACTICE PROJECT TO TEST THE ABILITY OF AGENTS!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pymdviewer.git
+git clone https://github.com/XC-Xinze/pymdviewer.git
 cd pymdviewer
 
 # Run the installer
